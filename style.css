@@ -15,4 +15,8 @@
     width: 90px;
     height: 90px;
     background-color: orange;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
